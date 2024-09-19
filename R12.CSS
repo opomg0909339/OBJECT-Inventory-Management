@@ -1,0 +1,23 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+  }
+  .grid-left {
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 30px;
+    text-align: left;
+  }
+  .grid-right2 {
+    padding-top: 50px;
+    padding-left: 100px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-right {
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+  }
+  
